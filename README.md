@@ -11,7 +11,7 @@ O projeto surgiu como um exemplo minimalista de como podemos construir nossas pr
 Não há dependências externas. Basta clonar este repositório e executar o script diretamente com Python 3.11 ou superior.
 
 ```bash
-git clone https://github.com/SunSh1x03//httpResponse.git
+git clone https://github.com/SunSh1x03/httpResponse.git
 cd httpResponse
 python3 httpcheck.py --help
 ```

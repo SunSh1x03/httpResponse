@@ -1,1 +1,3 @@
 # httpResponse
+
+Repositório com um script Python 2 que demonstra como montar rapidamente uma ferramenta básica de cliente TCP/HTTP usando a biblioteca padrão socket. A ideia central é mostrar que um pentester deve saber construir ferramentas simples quando as ferramentas prontas não estão disponíveis — útil para debugging, provas de conceito e testes em ambientes controlados. O script solicita Host e Port, estabelece conexão TCP, envia um GET simples e imprime até 4096 bytes da resposta. Depende apenas da biblioteca padrão (compatível com Python 2 devido a raw_input). Uso destinado a fins educacionais e testes autorizados; não execute contra sistemas sem permissão.
